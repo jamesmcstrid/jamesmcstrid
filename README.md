@@ -39,20 +39,21 @@ När jag analyserar hållbarhetsdata, bygger prototyper eller utforskar nya lös
 ### Vad jag utforskar just nu på GitHub
 Här på GitHub samlar jag idéer, kodsnuttar och prototyper som kretsar kring att göra fastighetsbranschen smartare och byggprocesser mer resurseffektiva. Oavsett om det handlar om att automatisera datainsamling för klimatkalkyler eller bygga flöden för smart energistyrning.
 
-### Låt oss snacka!
-Vill du diskutera hur vi kan hushålla med jordens resurser genom ny teknik? Behöver du någon som kan översätta hållbarhetsmål till tydliga krav för ett utvecklingsteam? Vill du bara nörda ner dig i innovation och smarta integrationer? **Eller saknar du hårdvara för att testa egna lokala AI-modeller? Hör av dig, jag lånar ibland ut kapacitet på min privata server!**
+###  Låt oss snacka!
+Vill du diskutera hur vi kan hushålla med jordens resurser genom ny teknik? Behöver du någon som kan översätta hållbarhetsmål till tydliga krav för ett utvecklingsteam? Vill du bara nörda ner dig i innovation och smarta integrationer? Eller saknar du hårdvara för att testa egna lokala AI-modeller? Hör av dig, jag lånar ibland ut kapacitet på min privata server!
 
-* [Connecta med mig på LinkedIn](https://www.linkedin.com/in/dennis-fredin-circularity)
-* Lyssna gärna när jag gästade podden [Byggbranschens Förebilder](https://www.podbean.com/ew/pb-st93g-159673e) eller när jag gästade [PS Partners podd](https://open.spotify.com/episode/0d4wEogqehNiegD8ayxfSc?si=6lfyg68rTaGeQGL32mPTaQ)
-* [dennis.fredin@gmail.com](mailto:dennis.fredin@gmail.com)
+* 🌐 **[Läs mer om min bakgrund på cv.fredskvist.com](https://cv.fredskvist.com/)**
+* 💼 [Connecta med mig på LinkedIn](https://www.linkedin.com/in/dennis-fredin-circularity)
+* 🎧 Lyssna gärna när jag gästade podden [Byggbranschens Förebilder](https://www.podbean.com/ew/pb-st93g-159673e) eller när jag gästade [PS Partners podd](https://open.spotify.com/episode/0d4wEogqehNiegD8ayxfSc?si=6lfyg68rTaGeQGL32mPTaQ)
+* ✉️ [dennis.fredin@gmail.com](mailto:dennis.fredin@gmail.com)
+
+---
+*"Den gröna omställningen kräver mer än bara nya mål – den kräver nya verktyg och modet att bygga annorlunda."*
+---
 
 * Vi hörs!
   //Dennis 
 
----
-*"Den gröna omställningen kräver mer än bara nya mål – den kräver nya verktyg och modet att bygga annorlunda."*
-
----
 
 ### In short (English)
 **Business Developer | Sustainability Strategist | Tech Enthusiast**
