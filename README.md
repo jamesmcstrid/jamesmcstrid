@@ -1,4 +1,4 @@
-# Hej, jag är Dennis Fredin!
+# Hej,
 
 **Affärsutvecklare | Strategisk Hållbarhet | Tech-entusiast**
 
@@ -45,7 +45,10 @@ Vill du diskutera hur vi kan hushålla med jordens resurser genom ny teknik? Beh
 
 * [Connecta med mig på LinkedIn](https://www.linkedin.com/in/dennis-fredin-circularity)
 * Lyssna gärna när jag gästade podden [Byggbranschens Förebilder](https://www.podbean.com/ew/pb-st93g-159673e) eller när jag gästade [PS Partners podd](https://open.spotify.com/episode/0d4wEogqehNiegD8ayxfSc?si=6lfyg68rTaGeQGL32mPTaQ)
-* [dennis.fredin@gmail.com](mailto:dennis.fredin@gmail.com) 
+* [dennis.fredin@gmail.com](mailto:dennis.fredin@gmail.com)
+
+* Vi hörs!
+  //Dennis 
 
 ---
 *"Den gröna omställningen kräver mer än bara nya mål – den kräver nya verktyg och modet att bygga annorlunda."*
