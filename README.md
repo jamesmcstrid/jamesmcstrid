@@ -17,13 +17,11 @@ Detta är inte "ChatGPT i Slack" – det är en fullt autonom agent med persiste
 
 ***Obs:** Källkoden för detta projekt är privat på grund av känslig data och personliga integrationer, men arkitekturen nedan visualiserar systemet jag har designat och byggt.*
 
-![Arkitekturdiagram över Henry 3.0](henry-architecture.png)
-*(Arkitekturdiagram visualiserat i samarbete med AI)*
+<img width="100%" alt="Arkitekturdiagram över Henry 3.0" src="https://github.com/user-attachments/assets/2611edd7-9ca5-42f8-ae56-51d8cfb84d67" />
 
-* **Omfattning:** ~15 000 rader JavaScript, 138 källfiler, built-in 18 days.
+* **Omfattning:** ~15 000 rader JavaScript, 138 källfiler, byggt på 18 dagar.
 * **Full Datasuveränitet:** Självhostad AI-assistent som kör dygnet runt på privat hårdvara (Älvängen). Ingen data lämnar hemmet. Ingen molntjänst kontrollerar den.
-* **Avancerad Arkitektur:**<img width="2816" height="1536" alt="henry-architecture png" src="https://github.com/user-attachments/assets/2611edd7-9ca5-42f8-ae56-51d8cfb84d67" />
-
+* **Avancerad Arkitektur:**
     * **Multi-modal intelligens:** Hanterar röst (Whisper-transkription -> AI -> TTS), bildanalys och dokumentextraktion (Word) autonomt.
     * **3-lagers persistent minne:** Implementerar working memory (konversation), semantic memory (fakta med vektor-embeddings och kosinuslikhet) och episodic memory (dagliga narrativer med semantisk sökning).
     * **Autonom Research Engine:** Genererar parallella sökfrågor, syntetiserar insikter via LLM till strukturerad JSON med affärsrelevans och action tips, aggregeras till veckobriefings.
@@ -43,7 +41,7 @@ När jag analyserar hållbarhetsdata, bygger prototyper eller utforskar nya lös
 Här på GitHub samlar jag idéer, kodsnuttar och prototyper som kretsar kring att göra fastighetsbranschen smartare och byggprocesser mer resurseffektiva. Oavsett om det handlar om att automatisera datainsamling för klimatkalkyler eller bygga flöden för smart energistyrning.
 
 ### Låt oss snacka!
-Vill du diskutera hur vi kan hushålla med jordens resurser genom ny teknik? Behöver du någon som kan översätta hållbarhetsmål till tydliga krav för ett utvecklingsteam? Eller vill du bara nörda ner dig i innovation och smarta integrationer?
+Vill du diskutera hur vi kan hushålla med jordens resurser genom ny teknik? Behöver du någon som kan översätta hållbarhetsmål till tydliga krav för ett utvecklingsteam? Vill du bara nörda ner dig i innovation och smarta integrationer? **Eller saknar du hårdvara för att testa egna lokala AI-modeller? Hör av dig, jag lånar ibland ut kapacitet på min privata server!**
 
 * [Connecta med mig på LinkedIn](https://www.linkedin.com/in/dennis-fredin-circularity)
 * Lyssna gärna när jag gästade podden [Byggbranschens Förebilder](https://www.podbean.com/ew/pb-st93g-159673e) eller när jag gästade [PS Partners podd](https://open.spotify.com/episode/0d4wEogqehNiegD8ayxfSc?si=6lfyg68rTaGeQGL32mPTaQ)
@@ -62,4 +60,4 @@ I am a business developer with a strong background in the real estate and constr
 **Featured Project (Private): Henry 3.0**
 I have built a fully autonomous, self-hosted AI agent on private hardware to prove that complex data processing and predictive intelligence can operate with complete data sovereignty. This ~15k line JavaScript system features a 3-layer persistent vector-embedded memory architecture, a multi-modal interface (voice, image, document), and an autonomous parallel research engine for proactive business intelligence. Although the code is private, the architecture diagram above details its design. It represents true system architecture, not just a simple API integration.
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/dennis-fredin-circularity) or reach out via [email](mailto:dennis.fredin@gmail.com)!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/dennis-fredin-circularity) or reach out via [email](mailto:dennis.fredin@gmail.com)! If you are looking to run local AI models but lack the hardware, hit me up – I sometimes lend out capacity on my private server.
