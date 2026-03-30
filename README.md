@@ -1,4 +1,3 @@
-# Hej,
 
 **Affärsutvecklare | Strategisk Hållbarhet | Tech-entusiast**
 
